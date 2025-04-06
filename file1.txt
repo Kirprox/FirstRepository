@@ -1,5 +1,5 @@
 Hello world!12345
-good bye!
+good morning(from branch add future1)!
 asdgf
 line from user1
 
